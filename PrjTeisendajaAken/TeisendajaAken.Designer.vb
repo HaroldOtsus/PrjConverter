@@ -78,7 +78,7 @@ Partial Class TeisendajaAken
         Me.Label2.TabIndex = 5
         Me.Label2.Text = "Miilid:"
         '
-        'Form1
+        'TeisendajaAken
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -88,7 +88,7 @@ Partial Class TeisendajaAken
         Me.Controls.Add(Me.btnTeisenda)
         Me.Controls.Add(Me.txtMiilid)
         Me.Controls.Add(Me.txtKilomeetrid)
-        Me.Name = "Form1"
+        Me.Name = "TeisendajaAken"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
         Me.PerformLayout()

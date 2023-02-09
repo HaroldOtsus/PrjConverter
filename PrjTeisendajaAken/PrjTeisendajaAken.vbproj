@@ -119,5 +119,11 @@
     </None>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PrjTeisendajaKomponent\PrjTeisendajaKomponent.vbproj">
+      <Project>{033aa3ff-130d-435d-8116-6ea614fe5c91}</Project>
+      <Name>PrjTeisendajaKomponent</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
