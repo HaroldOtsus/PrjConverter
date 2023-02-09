@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PrjTeisendajaAken", "PrjTeisendajaAken\PrjTeisendajaAken.vbproj", "{3CD09AE0-A125-4B37-84BC-CC6932411E19}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PrjTeisendajaKomponent", "PrjTeisendajaKomponent\PrjTeisendajaKomponent.vbproj", "{033AA3FF-130D-435D-8116-6EA614FE5C91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3CD09AE0-A125-4B37-84BC-CC6932411E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CD09AE0-A125-4B37-84BC-CC6932411E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CD09AE0-A125-4B37-84BC-CC6932411E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033AA3FF-130D-435D-8116-6EA614FE5C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033AA3FF-130D-435D-8116-6EA614FE5C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033AA3FF-130D-435D-8116-6EA614FE5C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033AA3FF-130D-435D-8116-6EA614FE5C91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
